@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://dev.azure.com/mayankahuja/Platform/_git/argocd-example-install   
+    repoURL: https://github.com/ahuja-mayank/argocd-example-install.git
     targetRevision: HEAD
   syncPolicy:
     automated:
